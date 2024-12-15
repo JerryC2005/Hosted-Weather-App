@@ -45,7 +45,10 @@ input {
     border: 1px solid #ccc;
     padding: .5rem;
     font-size: 1rem;
+}
 
+#radio-buttons {
+    margin: 1rem 0;
 }
 
 button {
